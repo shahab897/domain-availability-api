@@ -15,15 +15,15 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repository
 
-git clone https://github.com/<your-username>/domain-availability-api.git
+    https://github.com/shahab897/domain-availability-api.git
 
 2. Install the dependencies
 
-npm install
+   npm install
 
 3. Start the server
 
-node index.js
+   node index.js
 
 The server will start running on `http://localhost:3000`
 
