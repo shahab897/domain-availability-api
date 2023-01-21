@@ -1,0 +1,17 @@
+{
+  "name": "check-domain-name",
+  "version": "1.0.0",
+  "description": "Check if domain is available",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "domain-availability"
+  ],
+  "author": "Muhammad Shahab Rasheed",
+  "dependencies": {
+    "express": "^4.18.2",
+    "whois": "^2.14.0"
+  }
+}
